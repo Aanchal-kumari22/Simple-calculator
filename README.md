@@ -34,7 +34,8 @@ Copy code
 
 ---
 
-## ⚙️ Features  
+## ⚙️ Features 
+
 
 ✨ Perform **addition**, **subtraction**, **multiplication**, and **division**,**sine**, **cosine**, **tangent**
 
@@ -66,11 +67,13 @@ Simply open calculator.html in your web browser.
 
 🧠 How It Works
 
+
 🧩 HTML – Builds the calculator’s structure (display, buttons, layout)
 
 🎨 CSS – Handles the styling and layout grid
 
 ⚡ JavaScript – Captures button clicks, processes inputs, performs arithmetic, and updates the display dynamically
+
 
 
 💡 Future Enhancements
@@ -84,9 +87,11 @@ Simply open calculator.html in your web browser.
 🔹 Enhance mobile responsiveness and animations
 
 
+
 👩‍💻 Author
 
 Created by Aanchal Kumari
+
 
 
 🗣️ Feedback
@@ -96,9 +101,11 @@ Created by Aanchal Kumari
 Open an Issue or create a Pull Request — contributions are always welcome!
 
 
+
 ❤️ Acknowledgements
 
 Special thanks to open-source developers and learners who inspire clean, minimal web design projects.
+
 
 
 ⭐ If you found this project helpful, give it a star on GitHub! ⭐
