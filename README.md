@@ -18,6 +18,7 @@ It features a clean and responsive design, making it an excellent practice proje
 # 📁 Project Structure  
 
 Simple-calculator/
+
 │
 
 ├── calculator.html # Main HTML file (UI layout)
@@ -36,9 +37,13 @@ Copy code
 ## ⚙️ Features  
 
 ✨ Perform **addition**, **subtraction**, **multiplication**, and **division**,**sine**, **cosine**, **tangent**
+
 ✨ Supports **decimal** inputs  
-✨ **Clear (C / AC)** button to reset inputs  
-✨ Fully **responsive design**  
+
+✨ **Clear (C / AC)** button to reset inputs
+
+✨ Fully **responsive design** 
+
 ✨ Lightweight and beginner-friendly  
 
 ---
@@ -62,27 +67,37 @@ Simply open calculator.html in your web browser.
 🧠 How It Works
 
 🧩 HTML – Builds the calculator’s structure (display, buttons, layout)
+
 🎨 CSS – Handles the styling and layout grid
+
 ⚡ JavaScript – Captures button clicks, processes inputs, performs arithmetic, and updates the display dynamically
 
 
 💡 Future Enhancements
+
 🔹 Add keyboard input support
+
 🔹 Include dark/light theme toggle
+
 🔹 Add calculation history feature
+
 🔹 Enhance mobile responsiveness and animations
 
 
 👩‍💻 Author
+
 Created by Aanchal Kumari
 
 
 🗣️ Feedback
+
 💬 Found an issue or have suggestions?
+
 Open an Issue or create a Pull Request — contributions are always welcome!
 
 
 ❤️ Acknowledgements
+
 Special thanks to open-source developers and learners who inspire clean, minimal web design projects.
 
 
