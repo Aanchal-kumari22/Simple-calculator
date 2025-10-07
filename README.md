@@ -84,27 +84,11 @@ Simply open calculator.html in your web browser.
 
 🔹 Add calculation history feature
 
-🔹 Enhance mobile responsiveness and animations
-
 ---
 
 👩‍💻 Author
 
 Created by Aanchal Kumari
-
----
-
-🗣️ Feedback
-
-💬 Found an issue or have suggestions?
-
-Open an Issue or create a Pull Request — contributions are always welcome!
-
----
-
-❤️ Acknowledgements
-
-Special thanks to open-source developers and learners who inspire clean, minimal web design projects.
 
 ---
 
